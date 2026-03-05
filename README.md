@@ -19,7 +19,7 @@ Built from real-world use: originally created to process 23 ETHDenver 2026 confe
 In Claude Code, run these two commands:
 
 ```
-/plugin marketplace add srwillinger/transcript-to-social
+/plugin marketplace add swillinger/transcript-to-social
 /plugin install transcript-to-social@transcript-to-social
 ```
 

@@ -3,7 +3,7 @@
   "description": "Convert audio/video files, transcripts, and talks into ready-to-post social media content — Twitter/X threads, LinkedIn posts, and Bluesky threads. Includes AssemblyAI transcription pipeline.",
   "author": {
     "name": "Steven Willinger",
-    "github": "srwillinger"
+    "github": "swillinger"
   },
   "version": "1.0.0",
   "license": "MIT"

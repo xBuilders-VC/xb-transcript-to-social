@@ -4,7 +4,7 @@
   "description": "Convert audio/video files and transcripts into social media posts via AssemblyAI",
   "owner": {
     "name": "Steven Willinger",
-    "github": "srwillinger"
+    "github": "swillinger"
   },
   "plugins": [
     {
@@ -13,11 +13,11 @@
       "version": "1.0.0",
       "author": {
         "name": "Steven Willinger",
-        "github": "srwillinger"
+        "github": "swillinger"
       },
       "source": ".",
       "category": "productivity",
-      "homepage": "https://github.com/srwillinger/transcript-to-social"
+      "homepage": "https://github.com/swillinger/transcript-to-social"
     }
   ]
 }
